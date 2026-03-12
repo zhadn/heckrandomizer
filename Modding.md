@@ -78,7 +78,7 @@ You can use [PSXPREV](https://github.com/rickomax/psxprev) to preview and extrac
 ![Screenshot of Turnip turning up in the Textures pane](./screenshots/turnip-these-tims.png/)
 
 ### Changing the script
-You can modify the English script by navigating to `en.csv` in `lang.dat`.
+Modify the English script in `en.csv` (located inside `lang`).
 
 ![Screenshot of Kid with modified dialogue](./screenshots/just-you-wait-frog.png/)
 

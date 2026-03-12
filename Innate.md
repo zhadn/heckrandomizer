@@ -1,5 +1,22 @@
 # Innate
-Lists each character's innate color.
+A reference for modding a playable character's innate color.
+
+## Modifying Innate values
+There are six innate colors. They are represented by the following hexadecimal values.
+
+- Green: `0x04`
+- White: `0x08`
+- Black: `0x10`
+- Red: `0x20`
+- Yellow: `0x40`
+- Blue: `0x80`
+
+Modify character values like innate color in `char.bin` (located inside `cdrom/battle/data`).
+
+![Screenshot of Poshul with blue innate color](./screenshots/poshul-thpontaneouthry-bluebuthted.png/)
+
+## Character reference
+Default innate colors for each playable character.
 
 ## Doc
 White
