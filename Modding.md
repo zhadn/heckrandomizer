@@ -19,7 +19,65 @@ There are nine `.dat` files.
 - `radicaldreamers.dat`
 - `ui.dat`
 
-### Script changes
+### Player folders
+The `player` folder contains character data and is found in many locations across the project. Use this reference to better understand which folders are mapped to specific playable characters.
+
+- `banc` → Van
+- `carshu` → Karsh
+- `colcha` → Korcha
+- `dan` → Mojo
+- `doc` → Doc
+- `dragon` → Draggy
+- `farga` → Fargop
+- `gren` → Glenn
+- `guill` → Guile
+- `gyada` → Grobyc
+- `harley` → Harle
+- `hone` → Skelly
+- `hosi` → Starky
+- `ilenes` → Irenes
+- `ishito` → Norris 
+- `jakotu` → General Viper
+- `jilbelt` → Greco
+- `jyaness` → Janice
+- `kabuo` → Turnip
+- `kid` → Kid
+- `kinoko` → Funguy
+- `lazzuly` → Razzly
+- `lena` → Leena
+- `liia` → Leah
+- `lutianna` → Luccia 
+- `malchera` → Marcy
+- `mamacha` → Macha
+- `mell` → Mel
+- `miki` → Miki
+- `ocha` → Orcha
+- `olha` → Orlha
+- `pierre` → Pierre
+- `poshul` → Poshul
+- `radius` → Radius
+- `riddle` → Riddel
+- `selju` → Serge
+- `slash` → Nikki
+- `spri` → Sprigg
+- `steena` → Steena
+- `sunef` → Sneff
+- `tumaru` → Pip
+- `tu_m` → Pip (Angel)
+- `tu_mm` → Pip (Archangel)
+- `tu_p` → Pip (Devil)
+- `tu_pm` → Pip (Holy Beast)
+- `tu_pp` → Pip (Archdevil)
+- `yamaneko` → Lynx
+- `zappa` → Zappa
+- `zoah` → Zoah
+
+### Opening PlayStation (PSX) files
+You can use [PSXPREV](https://github.com/rickomax/psxprev) to preview and extract PlayStation (PSX) files (e.g., `.tim` files).
+
+![Screenshot of Turnip turning up in the Textures pane](./screenshots/turnip-these-tims.png/)
+
+### Changing the script
 You can modify the English script by navigating to `en.csv` in `lang.dat`.
 
 ![Screenshot of Kid with modified dialogue](./screenshots/just-you-wait-frog.png/)
