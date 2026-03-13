@@ -72,6 +72,9 @@ The `player` folder contains character data and is found in many locations acros
 - `zappa` → Zappa
 - `zoah` → Zoah
 
+### Mapbin files
+The `mapbin` folder contains [map data](./Maps.md).
+
 ### Opening PlayStation (PSX) files
 You can use [PSXPREV](https://github.com/rickomax/psxprev) to preview and extract PlayStation (PSX) files (e.g., `.tim` files).
 
