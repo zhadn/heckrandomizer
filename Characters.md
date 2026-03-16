@@ -1,10 +1,14 @@
 # Characters
-A list of characters written in order of their appearance in the Heckrandomizer.
+Hecadecimal reference for characters operations.
 
-**This page is a work in progress.**
+## Serge 
 
-## Home World
-Characters recruitable in the Heckrandomizer.
+## Poshul
+- `0x076F: ADD_CHARACTER_TO_PARTY(Poshul)`
+- `{7B 0C 80 }`
 
-### Arni Village 
-- **Serge:** [Mandatory]
+## Radius
+- `0x01F6: ADD_CHARACTER_TO_PARTY(Radius)`
+- `{7B 10 80 }`
+- `0x05C7: ADD_CHARACTER_TO_PARTY(Radius)`
+- `{7B 10 80 }`

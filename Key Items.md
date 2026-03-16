@@ -1,16 +1,9 @@
 # Key Items
-A reference for key items that are optional to the story and required for game progression.
+Hecadecimal reference for key item operations.
 
-**This page is a work in progress.**
-
-## Available on New Game
 - Astral Amulet 
 - Tele-Porter 
 - Time Shifter 
-
-## Before Fort Dragonia
-Key items obtainable before the end of Fort Dragonia.
-
 - Ancient Fruit 
 - Angry Scapula 
 - Aroma Pouch 
@@ -29,6 +22,8 @@ Key items obtainable before the end of Fort Dragonia.
 - Handle 
 - Heavy Skull 
 - Heckran Bone 
+  - `0x0776: RECEIVE_ITEM(1, "Heckran Bone")`
+  - `{BB 01 09 84 }`
 - Hero's Medal 
 - Hydra Humour 
 - Ice Breath 
@@ -51,10 +46,6 @@ Key items obtainable before the end of Fort Dragonia.
 - Smith Spirit 
 - Star Fragment 
 - Sturdy Ribs 
-
-## After Fort Dragonia
-Key items obtainable after Fort Dragonia. **Not a part of the Heckrandomizer.**
-
 - Black Relic
 - Blue Relic
 - Card Key 
@@ -66,5 +57,7 @@ Key items obtainable after Fort Dragonia. **Not a part of the Heckrandomizer.**
 - Tear of Hate 
 - Tear of Love 
 - Time Egg
+  - `0x01AB: RECEIVE_ITEM(0, "Time Egg")`
+  - `{BB 00 35 84 }`
 - White Relic 
 - Yellow Relic
